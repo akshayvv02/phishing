@@ -16,10 +16,10 @@ These sources contain numerous authentic phishing email samples that you could u
 
 Citations:
 [1] https://www.hooksecurity.co/phishing-email-examples <br>
-[2] https://us.norton.com/blog/online-scams/phishing-email-examples
-[3] https://caniphish.com/phishing-email-examples
-[4] https://www.terranovasecurity.com/blog/top-examples-of-phishing-emails
-[5] https://blog.hubspot.com/marketing/phishing-email-examples
-[6] https://blog.usecure.io/the-most-common-examples-of-a-phishing-email
-[7] https://www.msvu.ca/campus-life/campus-services/it-services/it-security/phishing/phishing-email-examples/
-[8] https://cofense.com/knowledge-center-hub/real-phishing-email-examples/
+[2] https://us.norton.com/blog/online-scams/phishing-email-examples<br>
+[3] https://caniphish.com/phishing-email-examples<br>
+[4] https://www.terranovasecurity.com/blog/top-examples-of-phishing-emails<br>
+[5] https://blog.hubspot.com/marketing/phishing-email-examples<br>
+[6] https://blog.usecure.io/the-most-common-examples-of-a-phishing-email<br>
+[7] https://www.msvu.ca/campus-life/campus-services/it-services/it-security/phishing/phishing-email-examples/<br>
+[8] https://cofense.com/knowledge-center-hub/real-phishing-email-examples/<br>
