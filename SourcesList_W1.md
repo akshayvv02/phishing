@@ -30,11 +30,11 @@ Other phishng types
 [24] https://www.hooksecurity.co/phishing-email-examples<br>
 
 Facts
-[1] https://www.getastra.com/blog/security-audit/phishing-attack-statistics/
-[2] https://caniphish.com/phishing-email-examples
-[3] https://www.stationx.net/phishing-statistics/
-[4] https://www.thesslstore.com/blog/phishing-statistics/
-[5] https://www.helpnetsecurity.com/2024/05/21/phishing-statistics-2024/
-[6] https://spacelift.io/blog/phishing-statistics
-[7] https://jumpcloud.com/blog/phishing-attack-statistics
-[8] https://www.zscaler.com/blogs/security-research/phishing-attacks-rise-58-year-ai-threatlabz-2024-phishing-report
+[1] https://www.getastra.com/blog/security-audit/phishing-attack-statistics/<br>
+[2] https://caniphish.com/phishing-email-examples<br>
+[3] https://www.stationx.net/phishing-statistics/<br>
+[4] https://www.thesslstore.com/blog/phishing-statistics/<br>
+[5] https://www.helpnetsecurity.com/2024/05/21/phishing-statistics-2024/<br>
+[6] https://spacelift.io/blog/phishing-statistics<br>
+[7] https://jumpcloud.com/blog/phishing-attack-statistics<br>
+[8] https://www.zscaler.com/blogs/security-research/phishing-attacks-rise-58-year-ai-threatlabz-2024-phishing-report<br>
